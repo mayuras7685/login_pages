@@ -1,0 +1,41 @@
+.navbar {
+  height: 60px;
+  background-size: 60px 60px !important;
+  position: relative;
+}
+.bit .bit--logo__logo {
+  font-size: 13.33px;
+}
+
+h4 {
+  margin-bottom: 20px;
+  font-family: ff-clan-web-pro, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+.btn--arrow,
+.btn--cta {
+  text-align: left;
+}
+
+.btn {
+  font-weight: 600;
+  font-size: 14px;
+  color: white;
+  text-transform: uppercase;
+  outline: 0;
+  line-height: 18px;
+  border-radius: 0%;
+  border: 2px solid #11939a;
+  display: inline-block;
+  vertical-align: middle;
+  font: inherit;
+  text-align: center;
+  margin: 0;
+  width: 50%;
+  cursor: pointer;
+  overflow: visible;
+  background-color: #11939a;
+}
+
+
